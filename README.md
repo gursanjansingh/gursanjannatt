@@ -1,4 +1,4 @@
-# gursanjannatt
+# 1914043
 PPS practical
 # **PROGRAMMING FOR PROGRAM SOLVING ESC-18105**
 ## NAME-*Gursanjan Singh Natt*
